@@ -2,16 +2,16 @@
 
 ## simple cli todo app in Go
 
-### to list all todos:
+### list all todos:
     $ ./todo -list
 
-### to add a todo to the list:
+### add a todo to the list:
     $ ./todo -add [todo name]
 
-### to mark todo as completed:
+### mark todo as completed:
     $ ./todo -complete=[index]
 
-### to delete a todo from the list:
+### delete a todo from the list:
     $ ./todo -del=[index]
 
 ### example:
